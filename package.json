@@ -1,0 +1,19 @@
+{
+  "name": "api_gestion",
+  "version": "1.0.0",
+  "description": "primeros pasos de la api gestion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miqueas-Correa/api_gestion.git"
+  },
+  "author": "Miqueas Correa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miqueas-Correa/api_gestion/issues"
+  },
+  "homepage": "https://github.com/Miqueas-Correa/api_gestion#readme"
+}
